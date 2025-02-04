@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://dogukankse.com/sitemap.xml
