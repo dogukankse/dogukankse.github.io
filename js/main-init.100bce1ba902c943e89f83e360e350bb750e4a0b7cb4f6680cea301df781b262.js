@@ -1,6 +1,6 @@
 (() => {
   // ns-hugo-params:/tmp/hugo_cache_runner/modules/filecache/modules/pkg/mod/github.com/razonyang/hugo-theme-bootstrap@v1.7.2/assets/js/local-storage/index.ts
-  var local_storage_default = { baseURL: "https://dogukankse.com/" };
+  var local_storage_default = { baseURL: "http://dogukankse.github.io/" };
 
   // ns-hugo-imp:/tmp/hugo_cache_runner/modules/filecache/modules/pkg/mod/github.com/razonyang/hugo-theme-bootstrap@v1.7.2/assets/js/local-storage/index.ts
   var PathLocalStorage = class {
