@@ -1,11 +1,9 @@
 ---
-title: Razon Yang
-description: Gopher, PHPer, Full Stack Engineer.
+title: Dogukan Kose
+description: Game Developer
 social:
-  github: razonyang
-  twitter: razonyang
-  email: razonyang@gmail.com
-  website: https://razonyang.com/
-  patreon: razonyang
-  paypal: razonyang
+    email: dogukankse4@gmail.com
+    github: github.com/dogukankse
+    linkedin: dogukankse
+    rss: "" # Remove RSS
 ---
